@@ -94,14 +94,12 @@ Para começar no **desafio 1**, você deve seguir item a item abaixo:
 2. Siga os [Pré-requisitos](#pré-requisitos) para poder participar do Desafio.
 3. Faça o treinamento do [Watson Assistant](#treinamento-no-watson-assistant) na região de **Washington-DC**.
 4. Suba a aplicação na [IBM Cloud](#aplicação-na-nuvem), em **Dallas**, com o serviço do [IBM Continuous Delivery](https://cloud.ibm.com/catalog/services/continuous-delivery) (veja o passo-a-passo abaixo) e configure com as credenciais do Watson Assistant e da Maratona.
-5. Submeta o seu desafio, clicando no botão "**SUBMETER DESAFIO**".
-6. Pronto! Agora é só acompanhar no ranking (100+).
+
 
 ## Pré-requisitos
 
 Você deverá cumprir os seguintes itens:
 
-- Registrar na [Maratona Behind the Code](https://ibm.biz/maratona) e confirmar o e-mail de cadastro.
 - Registrar na [IBM Cloud](https://ibm.biz/BdzsFc) e confirmar o e-mail de cadastro.
 
 ## Treinamento no Watson Assistant
@@ -200,15 +198,7 @@ Clique em `Play` (primeiro botão na imagem) e depois, após salvar as configura
     <img width="750" src="doc/source/images/Pipeline%2007.png">
 </div>
 
-## Submissão
 
-Através da aplicação na IBM Cloud (`https://<maratona-id>-desafio1-behindthecode.mybluemix.net`), você irá clicar no botão **SUBMIT ASSISTANT**, preencher com o seu CPF e enviar para a avaliação final.
-
-<div align="center">
-    <img width="750" src="doc/source/images/App%2001.png">
-</div>
-
-Não iremos divulgar a nota no momento da submissão. Iremos divulgar o ranking dos 100+ colocados.
 
 ## Material de apoio
 
