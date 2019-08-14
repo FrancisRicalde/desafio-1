@@ -2,7 +2,7 @@
 [![Platform](https://img.shields.io/badge/platform-nodejs-lightgrey.svg?style=flat)](https://developer.ibm.com/node/)
 [![Slack](https://maratona-inviter.mybluemix.net/badge.svg)](https://ibm.biz/convite-slack)
 
-# Desafio 01 | Grupo Pão de Açucar
+# Desafio 01 | Assistente Virtual com IBM Watson Assistant 
 
 * [Desafio](#desafio)
 * [Avaliação](#avaliação)
@@ -44,7 +44,7 @@ Sabemos que as regras de harmonização podem ser um tanto quanto complexas. Por
 <br>
 <br>
 
-Além de perguntas diretas, como as apresentadas na Tabela 1, este assistente virtual também terá que tratar perguntas de escopo aberto, como por exemplo:
+Além de perguntas diretas, como as apresentadas na Tabela 1, este assistente virtual também pode tratar perguntas de escopo aberto, como por exemplo:
 * Vou dar um jantar em casa. Qual vinho devo comprar? 
 * Vou servir uma massa no almoço. Qual é o vinho que melhor combina? 
 * Pretendo servir queijo como aperitivo. Qual é o vinho que melhor combina? 
@@ -78,13 +78,9 @@ Na figura 3, é apresentado uma situação onde o usuário faz uma pergunta 
 <br>
 <br>
 
-## Avaliação
+## Objetivo
 
-Todos os participantes da maratona deverão construir um assistente virtual sobre harmonização de vinhos como descrito acima. Para avaliar a qualidade do assistente virtual, a coordenação da maratona irá utilizar um validador automático. Por isso, é importante que no corpo de cada resposta exista uma marcação com o SKU* do vinho ou do prato recomendado. Esta marcação deve estar entre parênteses () com o número do SKU*.
-
-Você poderá utilizar qualquer texto no corpo da resposta. No entanto, é muito importante que o texto com a marcação esteja presente. Por exemplo, uma resposta válida para a pergunta “Qual é o melhor vinho tinto para acompanhar carnes vermelhas?” é: “Sugiro um Vinho Argentino Tinto CADUS Signature Series Petit Verdot Garrafa 750ml (1178431)”. Uma resposta que não é válida para a mesma pergunta é: “Sugiro um Vinho Argentino Tinto CADUS Signature Series Petit Verdot Garrafa 750ml”.
-
-> *O termo **Stock Keeping Unit** (**SKU**) - em português **Unidade de Manutenção de Estoque** - está ligado à logística de armazém e designa os diferentes itens do estoque, estando normalmente associado a um código identificador.
+Construir um assistente virtual sobre harmonização de vinhos como descrito acima. 
 
 ## Comece aqui
 
@@ -206,13 +202,6 @@ Clique em `Play` (primeiro botão na imagem) e depois, após salvar as configura
 - [Watson Assistant: Como criar o seu chatbot usando Skills e Assistants](https://medium.com/ibmdeveloperbr/watson-assistant-como-criar-o-seu-chatbot-usando-skills-e-assistants-755b4677984b?source=friends_link&sk=19bcbdb2ef573a717f63f0cc1fd4b754)
 - [Code Pattern: Assemble a pizza-ordering chatbot dialog](https://developer.ibm.com/patterns/assemble-a-pizza-ordering-chatbot-dialog/)
 
-## Dúvidas
-
-Acesse o slack e mande a sua dúvida: [ibm.biz/convite-slack](https://ibm.biz/convite-slack).
-
-## PDF do Desafio
-
-> Baixe o PDF do desafio [aqui](doc/source/pdf/Storytelling.pdf).
 
 ## License
 
